@@ -75,6 +75,13 @@
 
 </p>
 
+## NPM Packages:
+<p align="left">
+
+<a href = "https://www.npmjs.com/package/@maherunlocker/custom-react-table-component"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+
+</p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/maherunlocker/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=maherunlocker">
